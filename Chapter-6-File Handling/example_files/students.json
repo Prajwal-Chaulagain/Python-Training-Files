@@ -1,0 +1,18 @@
+[
+    {
+        "student_id": "s001",
+        "name": "Prajwal Chaulagain",
+        "address": "lalitpur, Nepal",
+        "phone_no": "9742829252",
+        "interest": "Graphic Design",
+        "iq_score": 100
+    },
+    {
+        "student_id": "S002",
+        "name": "Ujjwal Chaulagain",
+        "address": "Kathmandu",
+        "phone_no": "9876543210",
+        "interest": "Web Development",
+        "iq_score": 127
+    }
+]
